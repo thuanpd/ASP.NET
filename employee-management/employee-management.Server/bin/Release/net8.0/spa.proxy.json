@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:63232",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\employee-management\\employee-management.Server\\..\\employee-management.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

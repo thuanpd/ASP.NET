@@ -1,0 +1,22 @@
+
+# client
+FROM node:20 AS client-build
+WORKDIR /app/client
+COPY ./client/package.json ./client/package-lock.json ./
+RUN npm install
+COPY ./client ./
+RUN npm run build
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS server-build
+WORKDIR /app/server
+
+# server 
+COPY ./server/*.csproj ./
+RUN dotnet restore
+COPY ./server ./
+RUN dotnet publish -c Release -o /app/server/publish
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+WORKDIR /app
+COPY --from=server-build /app/server/publish .
+COPY --from=client-build /app/client/build /app/wwwroot
+EXPOSE 5000 80
+ENTRYPOINT ["dotnet", "employee-management.Server.dll"]

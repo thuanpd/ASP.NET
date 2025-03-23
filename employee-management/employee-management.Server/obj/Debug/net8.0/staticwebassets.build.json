@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "Hash": "sXExnUHWbTytrjX6zeAwFjOGwx4IX0FgTncbkBnjeLE=",
+  "Source": "employee-management.Server",
+  "BasePath": "_content/employee-management.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\employee-management\\employee-management.client\\employee-management.client.esproj",
+      "Version": 2,
+      "Source": "employee-management.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "employee-management.Server\\wwwroot",
+      "Source": "employee-management.Server",
+      "ContentRoot": "D:\\employee-management\\employee-management.Server\\wwwroot\\",
+      "BasePath": "_content/employee-management.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\employee-management\\employee-management.Server\\wwwroot\\assets\\index-BMISddln.js",
+      "SourceId": "employee-management.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\employee-management\\employee-management.Server\\wwwroot\\",
+      "BasePath": "_content/employee-management.Server",
+      "RelativePath": "assets/index-BMISddln#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hsaj3xigl",
+      "Integrity": "W+K7yjKyyjuzlosZWYMMP+FjS8aR4qxj3DaWKU4dims=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-BMISddln.js"
+    },
+    {
+      "Identity": "D:\\employee-management\\employee-management.Server\\wwwroot\\assets\\index-DRU7vExj.css",
+      "SourceId": "employee-management.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\employee-management\\employee-management.Server\\wwwroot\\",
+      "BasePath": "_content/employee-management.Server",
+      "RelativePath": "assets/index-DRU7vExj#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1fpcqg7iog",
+      "Integrity": "rZXPqRqfDoV+27B3s+Plnn8BAfGFfgTAasTdIHYKQXc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-DRU7vExj.css"
+    },
+    {
+      "Identity": "D:\\employee-management\\employee-management.Server\\wwwroot\\config.json",
+      "SourceId": "employee-management.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\employee-management\\employee-management.Server\\wwwroot\\",
+      "BasePath": "_content/employee-management.Server",
+      "RelativePath": "config#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xwwjtngca7",
+      "Integrity": "YSZcgCMZMEtlLWy24Q0Hr/ksY5zBKCGvEA8aZmNTXZg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\config.json"
+    },
+    {
+      "Identity": "D:\\employee-management\\employee-management.Server\\wwwroot\\index.html",
+      "SourceId": "employee-management.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\employee-management\\employee-management.Server\\wwwroot\\",
+      "BasePath": "_content/employee-management.Server",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oh8rwo1v5x",
+      "Integrity": "REzXTfUGc8TL4aT18iti9H+mbiu8QdFoRh2TvVsUpGM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\employee-management\\employee-management.Server\\wwwroot\\vite.svg",
+      "SourceId": "employee-management.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\employee-management\\employee-management.Server\\wwwroot\\",
+      "BasePath": "_content/employee-management.Server",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-BMISddln.1hsaj3xigl.js",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\assets\\index-BMISddln.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+K7yjKyyjuzlosZWYMMP+FjS8aR4qxj3DaWKU4dims=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 05:03:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hsaj3xigl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BMISddln.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W+K7yjKyyjuzlosZWYMMP+FjS8aR4qxj3DaWKU4dims="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BMISddln.js",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\assets\\index-BMISddln.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+K7yjKyyjuzlosZWYMMP+FjS8aR4qxj3DaWKU4dims=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 05:03:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W+K7yjKyyjuzlosZWYMMP+FjS8aR4qxj3DaWKU4dims="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DRU7vExj.1fpcqg7iog.css",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\assets\\index-DRU7vExj.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rZXPqRqfDoV+27B3s+Plnn8BAfGFfgTAasTdIHYKQXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 05:03:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1fpcqg7iog"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DRU7vExj.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rZXPqRqfDoV+27B3s+Plnn8BAfGFfgTAasTdIHYKQXc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DRU7vExj.css",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\assets\\index-DRU7vExj.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rZXPqRqfDoV+27B3s+Plnn8BAfGFfgTAasTdIHYKQXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 05:03:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rZXPqRqfDoV+27B3s+Plnn8BAfGFfgTAasTdIHYKQXc="
+        }
+      ]
+    },
+    {
+      "Route": "config.json",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\config.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YSZcgCMZMEtlLWy24Q0Hr/ksY5zBKCGvEA8aZmNTXZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 04:49:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YSZcgCMZMEtlLWy24Q0Hr/ksY5zBKCGvEA8aZmNTXZg="
+        }
+      ]
+    },
+    {
+      "Route": "config.xwwjtngca7.json",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\config.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YSZcgCMZMEtlLWy24Q0Hr/ksY5zBKCGvEA8aZmNTXZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 04:49:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xwwjtngca7"
+        },
+        {
+          "Name": "label",
+          "Value": "config.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YSZcgCMZMEtlLWy24Q0Hr/ksY5zBKCGvEA8aZmNTXZg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"REzXTfUGc8TL4aT18iti9H+mbiu8QdFoRh2TvVsUpGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 05:03:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-REzXTfUGc8TL4aT18iti9H+mbiu8QdFoRh2TvVsUpGM="
+        }
+      ]
+    },
+    {
+      "Route": "index.oh8rwo1v5x.html",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"REzXTfUGc8TL4aT18iti9H+mbiu8QdFoRh2TvVsUpGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 05:03:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oh8rwo1v5x"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-REzXTfUGc8TL4aT18iti9H+mbiu8QdFoRh2TvVsUpGM="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 08:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "D:\\employee-management\\employee-management.Server\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 08:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    }
+  ]
+}

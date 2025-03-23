@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\employee-management\\employee-management.Server\\wwwroot\\assets\\index-BMISddln.js",
+      "PackagePath": "staticwebassets\\assets\\index-BMISddln.js"
+    },
+    {
+      "Id": "D:\\employee-management\\employee-management.Server\\wwwroot\\assets\\index-DRU7vExj.css",
+      "PackagePath": "staticwebassets\\assets\\index-DRU7vExj.css"
+    },
+    {
+      "Id": "D:\\employee-management\\employee-management.Server\\wwwroot\\config.json",
+      "PackagePath": "staticwebassets\\config.json"
+    },
+    {
+      "Id": "D:\\employee-management\\employee-management.Server\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\employee-management\\employee-management.Server\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.employee-management.Server.props",
+      "PackagePath": "build\\employee-management.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.employee-management.Server.props",
+      "PackagePath": "buildMultiTargeting\\employee-management.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.employee-management.Server.props",
+      "PackagePath": "buildTransitive\\employee-management.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.employee-management.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.employee-management.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,5 @@
+wwwroot\assets\index-BMISddln.js
+wwwroot\assets\index-DRU7vExj.css
+wwwroot\config.json
+wwwroot\index.html
+wwwroot\vite.svg
